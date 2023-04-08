@@ -27,7 +27,10 @@
   },
   "dependencies": {
     "@graphql-yoga/node": "^3.8.0",
+    "@pothos/core": "^3.29.0",
+    "@pothos/plugin-prisma": "^3.47.2",
     "@prisma/client": "4.12.0",
-    "graphql": "^16.6.0"
+    "graphql": "^16.6.0",
+    "graphql-scalars": "^1.21.3"
   }
 }
